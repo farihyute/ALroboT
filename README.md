@@ -5,13 +5,12 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Noor12shah/ALroboT) ![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green) [![Join Support!](https://img.shields.io/badge/Support%20Chat-EagleUnion-red)](https://t.me/YorktownEagleUnion) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/cfb691a93a064d9ea753ef2b5fccf797)](https://www.codacy.com/manual/Dank-del/EnterpriseALRobot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Dank-del/EnterpriseALRobot&amp;utm_campaign=Badge_Grade)
 
 A modular telegram Python bot running on python3 with an sqlalchemy database.
-Concept taken from [Saitama Robot](https://github.com/AnimeKaizoku/SaitamaRobot)
 
-Originally a marie fork - Kigyō has evolved further and was built to be more useful for Anime Chats. 
+Originally a marie fork - ALroboT has evolved further and was built to be more useful for Anime Chats. 
 
-Can be found on telegram as [Kigyōbot](https://t.me/kigyorobot).
+Can be found on telegram as [ALroboT](https://t.me/joinchat/UoyjBRhwULsBhScU2B7mBw).
 
-The Support group can be reached out to at [Eagle Union](https://t.me/YorktownEagleUnion), where you can ask for help setting up your bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [ALroboT](https://t.me/joinchat/UoyjBRhwULsBhScU2B7mBw), where you can ask for help setting up your bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
  
 
