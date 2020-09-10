@@ -7,7 +7,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-   "description": "An Anime themed Telegram group management bot.",
+   "description": "I don't ever watch myself. By watching, you try to perfect yourself, become a robot..",
    "env": {
       "ALLOW_EXCL": {
          "description": "Set this to True if you want ! to be a command prefix along with /",
@@ -25,7 +25,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations.",
          "required": false,
-         "value": "https://www.paypal.me/PaulSonOfLars"
+         "value": "ALroboT"
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables.",
@@ -42,7 +42,7 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username",
-         "value": "AnimeKaizoku"
+         "value": "ALroboT"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
@@ -111,8 +111,8 @@
       "weeb",
       "group",
       "manager",
-      "Kigyō"
+      "ALroboT"
    ],
-   "name": "Kigyō bot",
-   "repository": "https://github.com/AnimeKaizoku/Kigyōbot"
+   "name": "ALroboT",
+   "repository": "https://github.com/Noor12shah/ALroboT"
 }
