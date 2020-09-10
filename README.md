@@ -191,7 +191,7 @@ For queries or any issues regarding the bot please open an issue ticket or visit
 For starters click on this button
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dank-del/EnterpriseAL)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FNoor12shah%2FALroboT%2Fblob%2Fmaster%2FREADME.md&template=https%3A%2F%2Fgithub.com%2FNoor12shah%2FALroboT)
 
 Fill in all the details , Deploy.
 Now go to https://dashboard.heroku.com/apps/(app-name)/resources ( Replace (app-name) with your app name )
