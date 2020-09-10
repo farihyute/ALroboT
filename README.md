@@ -4,7 +4,6 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Noor12shah/ALroboT) ![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green) [![Join Support!](https://img.shields.io/badge/Support%20Chat-EagleUnion-red)](https://t.me/YorktownEagleUnion) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/cfb691a93a064d9ea753ef2b5fccf797)](https://www.codacy.com/manual/Dank-del/EnterpriseALRobot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Dank-del/EnterpriseALRobot&amp;utm_campaign=Badge_Grade)
 
-https://github.com/Noor12shah/ALroboT
 
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
@@ -201,10 +200,9 @@ Now send the bot /start , If it doesn't respond go to https://dashboard.heroku.c
 </details>  
 
 ## Credits
-The bot is based of on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
+The bot is based of on the original work done by [Noor](https://github.com/Noor12shah)
 This repo was just reamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
 
-Also, missing proper credit for blacklistusers taken from TheRealPhoenixBot (will add it later, this note says unless its done)
 
 Any other authorship/credits can be seen through the commits.
 
