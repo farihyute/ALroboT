@@ -39,13 +39,13 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 Hi {}, my name is {}! 
-I am an Anime themed group management bot with some fun extras [;)](https://telegra.ph/file/095d7e696096e21b06447.jpg)
+I am an Anime themed group management bot with some fun extras [;)(https://telegra.ph/file/b98bbd56fd1c23a6c83f3.jpg)
 
 You can find the list of available commands with /help.
 
-[Kigyō's Repo](https://github.com/Dank-del/EnterpriseALRobot) 
+[Kigyō's Repo](https://github.com) 
 
-The support group chat is at @YorktownEagleUnion
+The support group chat is at @roxypantsu
 """
 
 HELP_STRINGS = """
