@@ -43,14 +43,14 @@ I am an Anime themed group management bot with some fun extras [;)(https://teleg
 
 You can find the list of available commands with /help.
 
-[Kigyō's Repo](https://github.com) 
+[Kigyō's Repo](https://github.com/farihyute/ALroboT) 
 
 The support group chat is at @roxypantsu
 """
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
-I'm a part of *Eagle Union*
+I'm a part of Roxy Union
 Have a look at the following for an idea of some of \
 the things I can help you with.
 *Main* commands available:
@@ -68,7 +68,7 @@ And the following:
 )
 
 
-KIGYO_IMG = "https://telegra.ph/file/e5100e06c03767af80023.jpg"
+KIGYO_IMG = "https://telegra.ph/file/06bdfcf12467df7ff0c70.mp4"
 
 DONATE_STRING = """I'm free for everyone!! """
 
