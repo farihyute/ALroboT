@@ -2,7 +2,7 @@
    "addons": [
       {
          "options": {
-            "version": "13"
+            "version": "12"
          },
          "plan": "heroku-postgresql"
       }
@@ -93,7 +93,7 @@
       "URL": {
          "description": "The Heroku App URL :-  https://<appname>.herokuapp.com/",
          "required": false,
-         "value": "https://<appname>.herokuapp.com/"
+         "value": "https://<tesbotu>.herokuapp.com/"
       },
       "WEBHOOK": {
          "description": "Setting this to ANYTHING will enable webhooks.",
@@ -113,6 +113,6 @@
       "manager",
       "ALroboT"
    ],
-   "name": "ALroboT",
-   "repository": "https://github.com/Noor12shah/ALroboT"
+   "name": "roxy",
+   "repository": "https://github.com/farihyute/roxy"
 }
