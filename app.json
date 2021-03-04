@@ -2,7 +2,7 @@
    "addons": [
       {
          "options": {
-            "version": "9.5"
+            "version": "13"
          },
          "plan": "heroku-postgresql"
       }
@@ -25,7 +25,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations.",
          "required": false,
-         "value": "ALroboT"
+         "value": ""
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables.",
@@ -38,28 +38,28 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "792109647"
+         "value": "1667117065"
       },
       "OWNER_USERNAME": {
          "description": "Your username",
-         "value": "ALroboT"
+         "value": "Xlaaf"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
          "required": false,
-         "value": "660565862 792109647"
+         "value": "1667117065"
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
-         "value": "-123"
+         "value": "-1001200959915"
       },
       "CASH_API_KEY": {
          "description": "Required for currency converter",
-         "value": "-xyz"
+         "value": "GX1QBRFOJIQBFWGE"
       },
       "TIME_API_KEY": {
          "description": "Required for timezone information",
-         "value": "-xyz"
+         "value": "0IDF1273BCZL"
       },
       "PORT": {
          "description": "Port to use for your webhooks.",
@@ -73,12 +73,12 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "459034222 189005567 660565862 346981140 367222759"
+         "value": ""
       },
       "SUPPORT_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "615304572"
+         "value": ""
       },
       "SARDEGNA_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as Sardegna users.",
@@ -88,12 +88,12 @@
       "TOKEN": {
          "description": "Your bot token.",
          "required": true,
-         "value": ""
+         "value": "1694712251:AAFpJN9w-XDbkWerSbG0aAlIAuCzIDQNPSs"
       },
       "URL": {
          "description": "The Heroku App URL :-  https://<appname>.herokuapp.com/",
          "required": false,
-         "value": ""
+         "value": "https://<appname>.herokuapp.com/"
       },
       "WEBHOOK": {
          "description": "Setting this to ANYTHING will enable webhooks.",
